@@ -52,5 +52,10 @@
         <p>This <strong>React Todo App</strong> is great for beginners learning <strong>React, state management, and local storage</strong>.</p>
     </section>
 
+## 📝 License 
+
+This project is licensed under the [MIT License](LICENSE).
+
 </body>
+
 </html>
